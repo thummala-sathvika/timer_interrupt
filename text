@@ -1,0 +1,4 @@
+Write an 8051 assembly program using timer 0 to generate a 500 Hz
+waveform and timer 1 to generate a 7 kHz square wave frequency on
+P1.0 and P1.1 respectively using timer interrupts. 
+Then examine the frequency using the KEIL IDE inbuilt Logic Analyzer. 
